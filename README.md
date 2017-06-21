@@ -1,0 +1,1 @@
+# actionmailer_view_template_adapter
